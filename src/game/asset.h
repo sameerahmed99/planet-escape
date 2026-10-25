@@ -1,0 +1,9 @@
+#ifndef ASSET_CORE_INCLUDE
+#define ASSET_CORE_INCLUDE
+
+
+
+
+
+
+#endif // ASSET_CORE_INCLUDE
